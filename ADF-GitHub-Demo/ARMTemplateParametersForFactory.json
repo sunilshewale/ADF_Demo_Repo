@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-GitHub-Demo"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://azurestorage0413.dfs.core.windows.net"
 		}
 	}
 }
