@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GitHub-Demo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec6fbba4-e36e-4bad-b161-d19eba55e3d2",
+		"tenantId": "bd2b7c11-cf00-4362-8315-5542201eb1ed"
+	}
+}
