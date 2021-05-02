@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/79b25db6-9dce-429b-89d3-b96d1aff8420/resourcegroups/Sunil-RG/providers/Microsoft.DataFactory/factories/Test-adf-0416/integrationruntimes/Self-hosted-Integration-Runtime",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
